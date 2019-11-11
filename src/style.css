@@ -1,5 +1,3 @@
-/* Created by @nabaroa 2018 */
 
-@import "tokens/tokens.css";
-@import "base/reset.css";
-@import "components/typography.css";
+@import "../node_modules/nakds/dist/css/nakDS.min.css";
+

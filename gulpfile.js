@@ -1,58 +1,39 @@
-var gulp = require('gulp'),
-    postcss = require('gulp-postcss'),
-    autoprefixer = require('autoprefixer'),
-    cssimport = require('postcss-import'),
-    customproperties = require('postcss-custom-properties'),
-    apply = require('postcss-apply'),
-    mixins = require('postcss-mixins'),
-    nested = require('postcss-nested'),
-    customMedia = require("postcss-custom-media")
-    nano = require('gulp-cssnano'),
-    notify = require('gulp-notify');
-    plumber = require('gulp-plumber'),
-    browserSync = require('browser-sync'),
-    runSequence = require('run-sequence');;
+const gulp = require('gulp');
+const postcss = require('gulp-postcss');
+const autoprefixer = require('autoprefixer');
+const postcssPresetEnv = require('postcss-preset-env');
+const cssImport = require('postcss-import');
+const customProperties = require('postcss-custom-properties');
+const apply = require('postcss-apply');
+const mixins = require('postcss-mixins');
+const nested = require('postcss-nested');
+const customMedia = require('postcss-custom-media');
+const cssnano = require('cssnano');
+const notify = require('gulp-notify');
+const rename = require('gulp-rename');
+const inject = require('gulp-inject-string');
+const replace = require('gulp-string-replace');
+const insert = require('gulp-insert');
 
-    gulp.task('css', function() {
-        var processors = [
-          cssimport,
-          autoprefixer,
-          customproperties,
-          apply,
-          mixins,
-          nested,
-          customMedia
-        ];
-        var configNano = {
-          autoprefixer: { browsers: 'last 2 versions' },
-          discardComments: { removeAll: true },
-          safe: true
-        };
-        return gulp.src('./src/*.css')
-            .pipe(postcss(processors))
-            .pipe(nano(configNano))
-            .pipe(gulp.dest('./docs/css'))
-            .pipe(notify({ message: 'Your CSS is ready =^_^=' }));
-    });
+function css() {
+  return gulp
+    .src("./src/style.css")
+    .pipe(postcss([cssImport(),postcssPresetEnv(),autoprefixer()]))
+    .pipe(gulp.dest("./docs/css/"))
+    .pipe(postcss([cssnano()]))
+    .pipe(rename({ suffix: ".min" }))
+    .pipe(gulp.dest("./docs/css/"))
+    .pipe(notify({
+      message: 'Your nakDS CSS is ready ♡'
+    }));
+  }
 
+function watch() {
+  gulp.watch("./src/css/**/*.css", css);
+}
 
-    // Static server
-    gulp.task('browser-sync', function() {
-        browserSync({
-            server: {
-                baseDir: './docs/'
-            }
-        });
-    });
+const build = gulp.series(css, watch);
 
-    // Watch
-    gulp.task('watch', function() {
-        // Watch .css files
-        gulp.watch('src/**/*.css', ['css']);
-
-    });
-
-    // Default
-    gulp.task('default', function() {
-      runSequence(['css', 'browser-sync', 'watch']);
-    });
+exports.css = css;
+exports.watch = watch;
+exports.default = build;
