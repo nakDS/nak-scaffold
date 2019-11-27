@@ -1,3 +1,6 @@
 
 @import "../node_modules/nakds/dist/css/nakDS.min.css";
 
+.nk-logo {
+  width: 200px;
+}

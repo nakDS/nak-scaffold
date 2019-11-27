@@ -1,32 +1,26 @@
-const gulp = require('gulp');
-const postcss = require('gulp-postcss');
-const autoprefixer = require('autoprefixer');
-const postcssPresetEnv = require('postcss-preset-env');
-const cssImport = require('postcss-import');
-const customProperties = require('postcss-custom-properties');
-const apply = require('postcss-apply');
-const mixins = require('postcss-mixins');
-const nested = require('postcss-nested');
-const customMedia = require('postcss-custom-media');
-const cssnano = require('cssnano');
-const notify = require('gulp-notify');
-const rename = require('gulp-rename');
-const inject = require('gulp-inject-string');
-const replace = require('gulp-string-replace');
-const insert = require('gulp-insert');
+const gulp = require("gulp");
+const postcss = require("gulp-postcss");
+const autoprefixer = require("autoprefixer");
+const postcssPresetEnv = require("postcss-preset-env");
+const cssImport = require("postcss-import");
+const cssnano = require("cssnano");
+const notify = require("gulp-notify");
+const rename = require("gulp-rename");
 
 function css() {
   return gulp
     .src("./src/style.css")
-    .pipe(postcss([cssImport(),postcssPresetEnv(),autoprefixer()]))
+    .pipe(postcss([cssImport(), postcssPresetEnv(), autoprefixer()]))
     .pipe(gulp.dest("./docs/css/"))
     .pipe(postcss([cssnano()]))
     .pipe(rename({ suffix: ".min" }))
     .pipe(gulp.dest("./docs/css/"))
-    .pipe(notify({
-      message: 'Your nakDS CSS is ready ♡'
-    }));
-  }
+    .pipe(
+      notify({
+        message: "Your CSS is ready ♡"
+      })
+    );
+}
 
 function watch() {
   gulp.watch("./src/css/**/*.css", css);
