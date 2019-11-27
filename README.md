@@ -1,8 +1,8 @@
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/nabaroa/nak-scaffold/master/docs/assets/svg/nakDS.svg" alt=""></p>
+<p align="center"><img src="https://raw.githubusercontent.com/nabaroa/nak-scaffold/master/docs/assets/img/nakDS.png" alt=""></p>
 
-<p align="center"><h1>nak Scaffold<h1></p>
+# nak Scaffold
 
 ## Simple scaffold to compile CSS via postCSS. Powered by nakDS. 
 
