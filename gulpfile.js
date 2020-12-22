@@ -1,6 +1,5 @@
 const gulp = require("gulp");
 const postcss = require("gulp-postcss");
-const autoprefixer = require("autoprefixer");
 const postcssPresetEnv = require("postcss-preset-env");
 const cssImport = require("postcss-import");
 const cssnano = require("cssnano");
@@ -19,7 +18,6 @@ function css() {
             "nesting-rules": true,
           },
         }),
-        autoprefixer(),
       ])
     )
     .pipe(gulp.dest("./docs/css/"))
