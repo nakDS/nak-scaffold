@@ -10,14 +10,25 @@ const rename = require("gulp-rename");
 function css() {
   return gulp
     .src("./src/style.css")
-    .pipe(postcss([cssImport(), postcssPresetEnv(), autoprefixer()]))
+    .pipe(
+      postcss([
+        cssImport(),
+        postcssPresetEnv({
+          stage: 3,
+          features: {
+            "nesting-rules": true,
+          },
+        }),
+        autoprefixer(),
+      ])
+    )
     .pipe(gulp.dest("./docs/css/"))
     .pipe(postcss([cssnano()]))
     .pipe(rename({ suffix: ".min" }))
     .pipe(gulp.dest("./docs/css/"))
     .pipe(
       notify({
-        message: "Your CSS is ready ♡"
+        message: "Your CSS is ready ♡",
       })
     );
 }
