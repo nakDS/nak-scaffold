@@ -3,3 +3,4 @@
 - Rebump the copy
 - Add vídeos (ukelele). 
 - Create de design in Figma
+- Create retrospective pils. Publish them one each
