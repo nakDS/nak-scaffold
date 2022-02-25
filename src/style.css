@@ -1,5 +1,56 @@
 @import "../node_modules/nakds/dist/css/nakDS.min.css";
 
+@custom-media --small (min-width: 480px);
+@custom-media --small--max (max-width: 799px);
+@custom-media --medium (min-width: 800px);
+@custom-media --medium--max (max-width: 1169px);
+@custom-media --large (min-width: 1170px);
+@custom-media --large--max (max-width: 1439px);
+@custom-media --xlarge (min-width: 1440px);
+
 :root {
   --color: #36d0b5;
+  --color--darker: #26ad95;
+}
+
+.nk-color {
+  color: var(--color);
+}
+
+.nk-cover__title {
+  font-size: 12vw;
+
+  @media (--xlarge) {
+    font-size: 8vw;
+  }
+}
+
+video {
+  width: 100%;
+  display: block;
+}
+
+.menu-lang {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: var(--small);
+  background: var(--color--k-9);
+  text-decoration: none;
+}
+
+.nk-hero {
+  height: 100vh;
+
+  @media (--medium) {
+    height: initial;
+  }
+
+  @media (--large) {
+    height: 100vh;
+  }
+}
+
+figure {
+	background: linear-gradient(90deg,var(--color) 50%,transparent 50.1%);
 }
