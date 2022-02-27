@@ -3,4 +3,9 @@
 - Rebump the copy
 - Add vídeos (ukelele). 
 - Create de design in Figma
-- Create retrospective pils. Publish them one each
+
+Retro
+- Who has attended all of the editions?
+- Video piedra/papel/tijera
+- Retro escrito de cómo al principio era téctico, katas, incluso servidores... luego
+makers, arduino, teclados... artístico... filosófico ()
