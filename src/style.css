@@ -95,3 +95,17 @@ figure {
 .nk-shadow {
   box-shadow: 6px 6px 24px rgba(0, 0, 0, 0.8);
 }
+
+.nk-text-shadow {
+  text-shadow: 6px 6px 24px rgba(0, 0, 0, 0.8);
+}
+
+.nk-underline {
+  display: flex;
+  flex-direction: column;
+  gap: var(--small);
+}
+
+.nk-flex {
+  display: flex;
+}
