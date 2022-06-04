@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "assets/attendees/ziraco.jpg",
+    "name": "Xabi Sáez de Ocáriz",
+    "nickname": "@ziraco",
+    "link": "http://twitter.com/ziraco"
+  },
+  {
+    "avatar": "assets/attendees/carmen.png",
+    "name": "carmen ansio",
+    "nickname": "@carmenansio",
+    "link": "http://twitter.com/carmenansio"
+  },
+  {
+    "avatar": "assets/attendees/keldor.jpg",
+    "name": "Keldor",
+    "nickname": "@keldor88",
+    "link": "http://twitter.com/keldor88"
+  },
+  {
+    "avatar": "assets/attendees/lenatwitteada.jpg",
+    "name": "Elena Ramírez",
+    "nickname": "@lenatwitteada",
+    "link": "http://twitter.com/lenatwitteada"
+  },
+  {
+    "avatar": "assets/attendees/josebaseba.jpg",
+    "name": "Joseba Legarreta",
+    "nickname": "@Josebaseba",
+    "link": "http://twitter.com/Josebaseba"
+  }
+]

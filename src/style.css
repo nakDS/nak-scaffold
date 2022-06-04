@@ -1,4 +1,5 @@
 @import "../node_modules/nakds/dist/css/nakDS.min.css";
+@import "attendees.css";
 
 @custom-media --small (min-width: 480px);
 @custom-media --small--max (max-width: 799px);
