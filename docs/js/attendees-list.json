@@ -6,12 +6,6 @@
     "link": "http://twitter.com/ziraco"
   },
   {
-    "avatar": "assets/attendees/carmen.png",
-    "name": "carmen ansio",
-    "nickname": "@carmenansio",
-    "link": "http://twitter.com/carmenansio"
-  },
-  {
     "avatar": "assets/attendees/keldor.jpg",
     "name": "Keldor",
     "nickname": "@keldor88",
@@ -30,9 +24,17 @@
     "link": "http://twitter.com/Josebaseba"
   },
   {
+    "avatar": "assets/attendees/viroide.jpg",
+    "name": "Jon E. Eguiluz",
+    "nickname": "@viroide",
+    "link": "http://twitter.com/viroide"
+  },
     "avatar": "assets/attendees/iortizdezarate.jpg",
     "name": "Israel Ortiz de Zárate",
     "nickname": "@iortizdezarate",
     "link": "http://twitter.com/iortizdezarate"
+  }
+
+
   }
 ]
