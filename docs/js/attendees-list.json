@@ -64,5 +64,11 @@
     "name": "Ibai Imaz",
     "nickname": "@ibaiimaz",
     "link": "http://twitter.com/ibaiimaz"
+  },
+  {
+    "avatar": "assets/attendees/sirikon.png",
+    "name": "Carlos Fdez. Llamas",
+    "nickname": "@sirikon",
+    "link": "https://sirikon.me"
   }
 ]
