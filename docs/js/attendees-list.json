@@ -64,5 +64,11 @@
     "name": "Ibai Imaz",
     "nickname": "@ibaiimaz",
     "link": "http://twitter.com/ibaiimaz"
+  },
+  {
+    "avatar": "assets/attendees/_NullPointer_.jpg",
+    "name": "Joseba Rodríguez",
+    "nickname": "@_NullPointer_",
+    "link": "http://twitter.com/_NullPointer_"
   }
 ]
