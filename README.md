@@ -1,6 +1,6 @@
 # theAntiEvent2022
 
-![TheAntiEvent](https://raw.githubusercontent.com/theantievent/theAntiEvent/master/docs/assets/theantievent_logo.png)
+![TheAntiEvent](https://raw.githubusercontent.com/theantievent/theAntiEvent/main/docs/assets/img/theantievent_logo.png)
 
 Open Space de desarrollo de software.
 
