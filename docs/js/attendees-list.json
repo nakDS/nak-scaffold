@@ -66,6 +66,30 @@
     "link": "http://twitter.com/ibaiimaz"
   },
   {
+    "avatar": "assets/attendees/gonzalo.jpg",
+    "name": "Gonzalo Ayuso",
+    "nickname": "@gonzalo123",
+    "link": "http://twitter.com/gonzalo123"
+  },
+  {
+    "avatar": "assets/attendees/sirikon.png",
+    "name": "Carlos Fdez. Llamas",
+    "nickname": "@sirikon",
+    "link": "https://sirikon.me"
+  },
+  {
+    "avatar": "assets/attendees/jumi.png",
+    "name": "Juan Miguel Imaz",
+    "nickname": "@akajumi",
+    "link": "http://twitter.com/akajumi"
+  },
+  {
+    "avatar": "assets/attendees/artberri.jpg",
+    "name": "Alberto Varela",
+    "nickname": "@artberri",
+    "link": "http://twitter.com/artberri"
+  },
+  {
     "avatar": "assets/attendees/_NullPointer_.jpg",
     "name": "Joseba Rodríguez",
     "nickname": "@_NullPointer_",
