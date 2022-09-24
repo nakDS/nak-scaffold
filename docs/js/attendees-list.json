@@ -154,5 +154,11 @@
     "name": "APA",
     "nickname": "@APA42",
     "link": "http://twitter.com/APA42"
+  },
+  {
+    "avatar": "assets/attendees/bea.jpg",
+    "name": "Bea Hernández",
+    "nickname": "@Chucheria",
+    "link": "http://twitter.com/Chucheria"
   }
 ]
