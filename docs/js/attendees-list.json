@@ -64,5 +64,11 @@
     "name": "Ibai Imaz",
     "nickname": "@ibaiimaz",
     "link": "http://twitter.com/ibaiimaz"
+  },
+  {
+    "avatar": "assets/attendees/gonzalo.jpg",
+    "name": "Gonzalo Ayuso",
+    "nickname": "@gonzalo123",
+    "link": "http://twitter.com/gonzalo123"
   }
 ]
