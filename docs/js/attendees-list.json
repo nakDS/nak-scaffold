@@ -322,5 +322,35 @@
     "name": "Txus Ordorika",
     "nickname": "@txusinho",
     "link": "http://twitter.com/txusinho"
+  },
+  {
+    "avatar": "assets/attendees/iñaki.jpg",
+    "name": "Iñaki Sanchez",
+    "nickname": "@Qu3ky",
+    "link": "http://twitter.com/Qu3ky"
+  },
+  {
+    "avatar": "assets/attendees/maitane.jpg",
+    "name": "Maitane Itoiz",
+    "nickname": "@MaitaneItoiz",
+    "link": "http://twitter.com/MaitaneItoiz"
+  },
+  {
+    "avatar": "assets/attendees/esther.jpg",
+    "name": "Esther Elizagaray",
+    "nickname": "@calamito_",
+    "link": "http://twitter.com/calamito_"
+  },
+  {
+    "avatar": "assets/attendees/laura.jpg",
+    "name": "Lauza Azcona",
+    "nickname": "@lauraazcona",
+    "link": "http://twitter.com/lauraazcona"
+  },
+  {
+    "avatar": "assets/attendees/amaia.jpg",
+    "name": "Amaia Berrocal",
+    "nickname": "@_Korlat",
+    "link": "http://twitter.com/_Korlat"
   }
 ]
