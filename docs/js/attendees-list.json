@@ -262,5 +262,17 @@
     "name": "Sergio Sáenz",
     "nickname": "@devjuggler",
     "link": "http://twitter.com/devjuggler"
+  },
+  {
+    "avatar": "assets/attendees/maider.png",
+    "name": "Maider Landaribar",
+    "nickname": "@maidersonn_",
+    "link": "http://twitter.com/maidersonn_"
+  },
+  {
+    "avatar": "assets/attendees/roberto.jpg",
+    "name": "Roberto Garrido",
+    "nickname": "@che1404",
+    "link": "http://twitter.com/che1404"
   }
 ]
