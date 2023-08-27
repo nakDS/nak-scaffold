@@ -1,0 +1,422 @@
+[
+  {
+    "avatar": "assets/attendees/mercedes.jpg",
+    "name": "Mercedes",
+    "nickname": "@laponyo",
+    "link": "http://twitter.com/laponyo"
+  },
+  {
+    "avatar": "assets/attendees/keldor.jpg",
+    "name": "Keldor",
+    "nickname": "@keldor88",
+    "link": "http://twitter.com/keldor88"
+  },
+  {
+    "avatar": "assets/attendees/Nahikariii.jpg",
+    "name": "Nahikari",
+    "nickname": "@Nahikariii",
+    "link": "http://twitter.com/Nahikariii"
+  },
+  {
+    "avatar": "assets/attendees/sirikon.jpg",
+    "name": "Carlos Fdez Llamas",
+    "nickname": "@sirikon@plaza.remolino.town",
+    "link": "http://mastodon.social/@sirikon"
+  },
+  {
+    "avatar": "assets/attendees/viroide.jpg",
+    "name": "Viroide",
+    "nickname": "@viroide",
+    "link": "http://twitter.com/viroide"
+  },
+  {
+    "avatar": "assets/attendees/alex.jpeg",
+    "name": "Alex",
+    "nickname": "@Inverse_Bit",
+    "link": "http://twitter.com/Inverse_Bit"
+  },
+  {
+    "avatar": "assets/attendees/josebaseba.jpg",
+    "name": "Joseba",
+    "nickname": "@Josebaseba",
+    "link": "http://twitter.com/Josebaseba"
+  },
+  {
+    "avatar": "assets/attendees/garazi_i.jpg",
+    "name": "Garazi",
+    "nickname": "@Garazi_i",
+    "link": "http://twitter.com/Garazi_i"
+  },
+  {
+    "avatar": "assets/attendees/pulido.jpg",
+    "name": "Juan Antonio",
+    "nickname": "@pulidoiniesta",
+    "link": "http://twitter.com/pulidoiniesta"
+  },
+  {
+    "avatar": "assets/attendees/morti.jpg",
+    "name": "Imanol",
+    "nickname": "@MortimerGoro",
+    "link": "http://twitter.com/MortimerGoro"
+  },
+  {
+    "avatar": "assets/attendees/patri_pe.jpg",
+    "name": "Patricia Perochena",
+    "nickname": "@patri_pe",
+    "link": "http://twitter.com/patri_pe"
+  },
+  {
+    "avatar": "assets/attendees/jontorrado.jpg",
+    "name": "Jon Torrado",
+    "nickname": "@jontorrado",
+    "link": "http://twitter.com/jontorrado"
+  },
+  {
+    "avatar": "assets/attendees/Ercillagorka.jpg",
+    "name": "Gorka",
+    "nickname": "@Ercillagorka",
+    "link": "http://twitter.com/ercillagorka"
+  },
+  {
+    "avatar": "assets/attendees/miniservers.jpg",
+    "name": "Raul Moreno Sola",
+    "nickname": "@miniservers",
+    "link": "http://twitter.com/miniservers"
+  },
+  {
+    "avatar": "assets/attendees/ilpapis.jpg",
+    "name": "Iñaki Etxebarria",
+    "nickname": "@ilpapis",
+    "link": "http://twitter.com/ilpapis"
+  },
+  {
+    "avatar": "assets/attendees/uorbe001.jpg",
+    "name": "Unai Orbe",
+    "nickname": "@uorbe001",
+    "link": "http://twitter.com/uorbe001"
+  },
+  {
+    "avatar": "assets/attendees/lenatwitteada.jpg",
+    "name": "Elena Ramírez",
+    "nickname": "@lenatwitteada",
+    "link": "http://twitter.com/lenatwitteada"
+  },
+  {
+    "avatar": "assets/attendees/xala3pa.jpg",
+    "name": "Alvaro Salazar",
+    "nickname": "@xala3pa",
+    "link": "http://twitter.com/xala3pa"
+  },
+  {
+    "avatar": "assets/attendees/carmenansio.jpg",
+    "name": "carmenansio",
+    "nickname": "@carmenansio",
+    "link": "http://twitter.com/carmenansio"
+  },
+  {
+    "avatar": "assets/attendees/Pahint.jpg",
+    "name": "Imanol Pinto",
+    "nickname": "@Pahint",
+    "link": "http://twitter.com/Pahint"
+  },
+  {
+    "avatar": "assets/attendees/ojoven.jpg",
+    "name": "Compinche: \n🤖 Mikel Torres",
+    "nickname": "@ojoven",
+    "link": "http://twitter.com/ojoven"
+  },
+  {
+    "avatar": "assets/attendees/ojoven.jpg",
+    "name": "👉👉👉",
+    "nickname": "La Visionaria",
+    "link": "https://twitter.com/diana_aceves_/status/1056129394425716736"
+  },
+  {
+    "avatar": "assets/attendees/ojoven.jpg",
+    "name": "👉👉",
+    "nickname": "sabía",
+    "link": "https://youtu.be/oHg5SJYRHA0"
+  },
+  {
+    "avatar": "assets/attendees/ojoven.jpg",
+    "name": "👉",
+    "nickname": "lo",
+    "link": "https://www.theclassicarchives.com/images/ebaypics/F88/suspense1.jpg"
+  },
+  {
+    "avatar": "assets/attendees/ojoven.jpg",
+    "name": "Fernando Fariña & El Compinche",
+    "nickname": "Ella",
+    "link": "https://i.imgur.com/2AQUTte.jpg"
+  },
+  {
+    "avatar": "assets/attendees/penniath.jpg",
+    "name": "Fernando Fariña",
+    "nickname": "@penniath",
+    "link": "http://twitter.com/penniath"
+  },
+  {
+    "avatar": "assets/attendees/fer.jpg",
+    "name": "Fernando Fariña",
+    "nickname": "@penniath",
+    "link": "http://twitter.com/penniath"
+  },
+  {
+    "avatar": "assets/attendees/penniath.jpg",
+    "name": "Fernando Fariña",
+    "nickname": "@penniath",
+    "link": "http://twitter.com/penniath"
+  },
+  {
+    "avatar": "assets/attendees/fer.jpg",
+    "name": "Fernando Fariña",
+    "nickname": "@penniath",
+    "link": "http://twitter.com/penniath"
+  },
+  {
+    "avatar": "assets/attendees/penniath.jpg",
+    "name": "Fernando Fariña",
+    "nickname": "@penniath",
+    "link": "http://twitter.com/penniath"
+  },
+  {
+    "avatar": "assets/attendees/JKLongarte.jpg",
+    "name": "Jon Kepa Longarte",
+    "nickname": "@JKLongarte",
+    "link": "http://twitter.com/JKLongarte"
+  },
+  {
+    "avatar": "assets/attendees/cristina_verdi.jpg",
+    "name": "Cristina Verdi",
+    "nickname": "@cristina_verdi",
+    "link": "http://twitter.com/cristina_verdi"
+  },
+  {
+    "avatar": "assets/attendees/ekaitz.jpg",
+    "name": "Ekaitz",
+    "nickname": "@ekaitz",
+    "link": "https://elenq.tech"
+  },
+  {
+    "avatar": "assets/attendees/artberri.jpg",
+    "name": "Alberto Varela",
+    "nickname": "@artberri",
+    "link": "http://twitter.com/artberri"
+  },
+  {
+    "avatar": "assets/attendees/manosfrias.jpg",
+    "name": "Manosfrias",
+    "nickname": "@manosfrias",
+    "link": "http://twitter.com/manosfrias"
+  },
+  {
+    "avatar": "assets/attendees/ibaiimaz.jpg",
+    "name": "ibai imaz",
+    "nickname": "@ibaiimaz",
+    "link": "http://twitter.com/ibaiimaz"
+  },
+  {
+    "avatar": "assets/attendees/NoxWings.jpg",
+    "name": "David G. Miguel",
+    "nickname": "@NoxWings",
+    "link": "http://twitter.com/NoxWings"
+  },
+  {
+    "avatar": "assets/attendees/sanmibuh.jpg",
+    "name": "David Belmez",
+    "nickname": "@sanmibuh",
+    "link": "http://twitter.com/sanmibuh"
+  },
+  {
+    "avatar": "assets/attendees/MartaMans0.jpg",
+    "name": "Marta Manso",
+    "nickname": "@MartaMans0",
+    "link": "http://twitter.com/MartaMans0"
+  },
+  {
+    "avatar": "assets/attendees/fran_mosteiro.jpg",
+    "name": "Fran Mosteiro",
+    "nickname": "@fran_mosteiro",
+    "link": "http://twitter.com/fran_mosteiro"
+  },
+  {
+    "avatar": "assets/attendees/elreplicante.jpg",
+    "name": "Sergio Revilla",
+    "nickname": "@elreplicante",
+    "link": "http://twitter.com/elreplicante"
+  },
+  {
+    "avatar": "assets/attendees/PGaraizar.jpg",
+    "name": "Pablo Garaizar",
+    "nickname": "@PGaraizar",
+    "link": "http://twitter.com/PGaraizar"
+  },
+  {
+    "avatar": "assets/attendees/MarkelLavin.jpg",
+    "name": "markel arauzo lavin",
+    "nickname": "@MarkelLavin",
+    "link": "http://twitter.com/MarkelLavin"
+  },
+  {
+    "avatar": "https://pbs.twimg.com/profile_images/907903037166977024/Hh-gPchm_400x400.jpg",
+    "name": "Joseba Rodriguez",
+    "nickname": "@_NullPointer_",
+    "link": "http://twitter.com/_NullPointer_"
+  },
+  {
+    "avatar": "assets/attendees/ladybenko.jpg",
+    "name": "Belén 😱",
+    "nickname": "@ladybenko",
+    "link": "http://twitter.com/ladybenko"
+  },
+  {
+    "avatar": "assets/attendees/eddieFeretro.jpg",
+    "name": "eddie feretro",
+    "nickname": "@eddieFeretro",
+    "link": "http://twitter.com/eddieFeretro"
+  },
+  {
+    "avatar": "assets/attendees/eddieFeretroSpy3.jpg",
+    "name": "eddie feretro",
+    "nickname": "@eddieFeretro",
+    "link": "http://twitter.com/eddieFeretro"
+  },
+  {
+    "avatar": "assets/attendees/eddieFeretroSpy2.jpg",
+    "name": "eddie feretro",
+    "nickname": "@eddieFeretro",
+    "link": "http://twitter.com/eddieFeretro"
+  },
+  {
+    "avatar": "assets/attendees/eddieFeretroSpy.jpg",
+    "name": "eddie feretro",
+    "nickname": "@eddieFeretro",
+    "link": "http://twitter.com/eddieFeretro"
+  },
+  {
+    "avatar": "assets/attendees/eddieFeretro.jpg",
+    "name": "eddie feretro",
+    "nickname": "@eddieFeretro",
+    "link": "http://twitter.com/eddieFeretro"
+  },
+  {
+    "avatar": "assets/attendees/bea.jpg",
+    "name": "Bea Hernández",
+    "nickname": "@Chucheria",
+    "link": "http://twitter.com/Chucheria"
+  },
+  {
+    "avatar": "assets/attendees/jonan.jpg",
+    "name": "Jon Ander Romero",
+    "nickname": "@jonanone",
+    "link": "http://twitter.com/jonanone"
+  },
+  {
+    "avatar": "assets/attendees/karen.jpg",
+    "name": "Karen Troiano",
+    "nickname": "@TroiKM",
+    "link": "http://twitter.com/TroiKM"
+  },
+  {
+    "avatar": "assets/attendees/xabi.jpg",
+    "name": "Xabi Sáez de Ocáriz",
+    "nickname": "@ziraco",
+    "link": "http://twitter.com/ziraco"
+  },
+  {
+    "avatar": "assets/attendees/sergio.jpg",
+    "name": "Sergio Sáenz",
+    "nickname": "@devjuggler",
+    "link": "http://twitter.com/devjuggler"
+  },
+  {
+    "avatar": "assets/attendees/naiara.jpg",
+    "name": "Naiara Abaroa",
+    "nickname": "@nabaroa",
+    "link": "http://twitter.com/nabaroa"
+  },
+  {
+    "avatar": "assets/attendees/asier.jpg",
+    "name": "Asier Musa",
+    "nickname": "@asiermusa",
+    "link": "http://twitter.com/asiermusa"
+  },
+  {
+    "avatar": "assets/attendees/nadia.jpg",
+    "name": "Nadia Carreira",
+    "nickname": "nadiacarreiranuñez",
+    "link": "https://www.linkedin.com/in/nadiacarreiranuñez"
+  },
+  {
+    "avatar": "assets/attendees/apa.jpg",
+    "name": "APA",
+    "nickname": "@APA42",
+    "link": "http://twitter.com/APA42"
+  },
+  {
+    "avatar": "assets/attendees/txus.jpeg",
+    "name": "Txus Ordorika",
+    "nickname": "@txusinho",
+    "link": "http://twitter.com/txusinho"
+  },
+  {
+    "avatar": "assets/attendees/kevin.jpg",
+    "name": "Kevin Cifuentes",
+    "nickname": "kevin-cifuentes-salas",
+    "link": "https://www.linkedin.com/in/kevin-cifuentes-salas"
+  },
+  {
+    "avatar": "assets/attendees/daniele.jpeg",
+    "name": "Daniele Crosetti",
+    "nickname": "@cronycles",
+    "link": "http://twitter.com/cronycles"
+  },
+  {
+    "avatar": "assets/attendees/eneko.jpg",
+    "name": "Eneko Bikandi",
+    "nickname": "@enekobi",
+    "link": "http://twitter.com/enekobi"
+  },
+  {
+    "avatar": "assets/attendees/cata.jpg",
+    "name": "Cata Oyaneder ❤",
+    "nickname": "@cataflu",
+    "link": "http://twitter.com/cataflu"
+  },
+  {
+    "avatar": "assets/attendees/gonzalo.jpg",
+    "name": "Gonzalo Ayuso",
+    "nickname": "@gonzalo123",
+    "link": "http://twitter.com/gonzalo123"
+  },
+  {
+    "avatar": "assets/default.jpg",
+    "name": "X",
+    "nickname": "",
+    "link": ""
+  },
+  {  
+    "avatar": "assets/attendees/ricardo.jpg",
+    "name": "Ricardo Galipienzo",
+    "nickname": "@rgalipienzo",
+    "link": "http://twitter.com/rgalipienzo"
+  },
+  {  
+    "avatar": "assets/attendees/jesus.jpg",
+    "name": "Jesus Arnas",
+    "nickname": "@jesusArnas",
+    "link": "http://twitter.com/jesusArnas"
+  },
+  {
+    "avatar": "assets/attendees/monica.jpg",
+    "name": "Mónica Martín",
+    "nickname": "@monbio",
+    "link": "http://twitter.com/monbio"
+  },
+  {
+    "avatar": "assets/attendees/israel.jpg",
+    "name": "Israel Otz de Zárate",
+    "nickname": "@iortizdezarate",
+    "link": "http://twitter.com/iortizdezarate"
+  }
+]
