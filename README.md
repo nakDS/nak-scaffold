@@ -1,13 +1,14 @@
+# theAntiEvent2022
+
+![TheAntiEvent](https://raw.githubusercontent.com/theantievent/theAntiEvent/main/docs/assets/img/theantievent_logo.png)
+
+Open Space de desarrollo de software.
+
+Es una excusa perfecta para juntarnos y aprender, compartir conocimiento y disfrutar de algo que nos encanta hacer, crear webs/apps/videojuegos increíbles en buena compañía. Designers, frontends, backends, makers… ¡que se apunte quien quiera! Va a haber charlas, workshops, mesas redondas, equipos de trabajo, katas... todo lo que nos dé la imaginación.
+
+El método es asambleario, el grupo propone las ideas. No va a ser un evento al uso, va a ser un evento dinámico que se irá retroalimentando según vaya desarrollándose.
+
+Es puro proceso creativo, se recomienda dejarse llevar.
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/nabaroa/nak-scaffold/master/docs/assets/img/nakDS.png" alt=""></p>
-
-# nak Scaffold
-
-## Simple scaffold to compile CSS via postCSS. Powered by nakDS. 
-
-Enjoy the experience of creating art with code.
-
-
-## License
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[@TheAntiEvent](https://twitter.com/TheAntiEvent)

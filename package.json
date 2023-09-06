@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "css": "postcss src/style.css -o docs/css/style.min.css",
-    "css:watch": "postcss src/style.css -o docs/css/style.min.css -w"
+    "css": "postcss src/style.css -o docs/css/style.min.v2.css",
+    "css:watch": "postcss src/style.css -o docs/css/style.min.v2.css -w"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/nabaroa/nak-scaffolding#readme",
   "devDependencies": {
     "cssnano": "^4.1.10",
-    "nakds": "^2.4.2",
+    "nakds": "^2.4.3",
     "postcss": "^8.4.6",
     "postcss-cli": "^9.1.0",
     "postcss-import": "^12.0.1",
